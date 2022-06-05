@@ -1,7 +1,7 @@
 {
     "name": "ADEX",
     "uniqueKey": "adex",
-    "description": "Asynchronous Data Exchange (ADEX) is a centralised, self-service whole-of-government data exchange and event streaming platform with real-time, asynchronous, fire-and-forget data transfer that enables agencies to make better, real-time decisions based on up-to-date information.",
+    "description": "Crazy is a centralised, self-service whole-of-government data exchange and event streaming platform with real-time, asynchronous, fire-and-forget data transfer that enables agencies to make better, real-time decisions based on up-to-date information.",
     "url": "https://www.developer.gov.sg/products/categories/sensor-platforms-and-internet-of-things/asynchronous-data-exchange/overview.html",
     "documentations": [
       {
