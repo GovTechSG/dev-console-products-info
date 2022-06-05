@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/GovTechSG/dev-console-products-info#readme",
   "devDependencies": {
-    "@web/dev-server": "^0.1.31"
+    "@web/dev-server": "^0.1.31",
+    "tailwindcss": "^3.0.24"
   }
 }
