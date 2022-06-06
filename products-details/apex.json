@@ -1,7 +1,7 @@
 {
   "name": "APEX",
   "uniqueKey": "apex",
-  "description": "API Exchange (APEX) HELLO is a centralised, self-service whole-of-government API platform. It enables convenient and secure data sharing through the use of APIs which contain coded rules that manages who has access to the data and how data gets transferred.",
+  "description": "API Exchange (APEX) is a centralised, self-service whole-of-government API platform. It enables convenient and secure data sharing through the use of APIs which contain coded rules that manages who has access to the data and how data gets transferred.",
   "url": "https://www.developer.gov.sg/products/categories/data-and-apis/apex/overview.html",
   "documentations": [
     {
