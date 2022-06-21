@@ -92,7 +92,7 @@ Links to applications that you would like viewers to have access to through this
 
 ### Resources
 
-Other misc resources that you think is important that the user should know.
+Other misc resources that you think is important that the user should know. hello hellop
 
 **Note: Height of the details portion is fixed, so if there are too many links, it will just overflow and may not look as good. Do try to curate and limit the number of links you display for each portion.**
 
