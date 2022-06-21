@@ -1,8 +1,8 @@
-# Global Owner
-* @yanbutan
-
 # Order is important; the last matching pattern takes the most precedence.
 # Only code owners and not global owner will be requested.
 /products-details/apex.json @Ducksss
 
 /products-details/doc-portal.json @GovTechSG/developer-gov-sg
+
+# Global Owner
+* @yanbutan
