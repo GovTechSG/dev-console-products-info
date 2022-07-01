@@ -1,7 +1,7 @@
 {
     "name": "Documentation Service",
     "uniqueKey": "doc-portal",
-    "description": "Hello The Singapore Government Developer Portal's (Dev Portal) documentation service provides technical documentation for products such as onboarding guides, API specs and users guides. Publication guides for product teams who are interested to publish content in the documentation service are also provided",
+    "description": "The Singapore Government Developer Portal's (Dev Portal) documentation service provides technical documentation for products such as onboarding guides, API specs and users guides. Publication guides for product teams who are interested to publish content in the documentation service are also provided",
     "url": "https://docs.developer.tech.gov.sg/",
     "documentations": [
       {
